@@ -1,2 +1,3 @@
 Hello, Git!
 Welcome to Git!
+I learned how to add things to a GitHub page via the console. Challenges I faced were not knowing what was happening at all. 
